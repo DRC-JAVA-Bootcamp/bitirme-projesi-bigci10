@@ -31,6 +31,8 @@
    ```
    Departman Güncelleme
    ```
+   
+   ![updatedepartment](https://user-images.githubusercontent.com/70436168/167297036-963a3fa3-ce01-4a33-8e8c-21fd324b1657.png)
    ```
    Tüm Departmanları Görüntüleme
    ```
