@@ -24,8 +24,12 @@
 
    # 2.Adım Eleman ekleme 
 
+![Eleman ekleme](https://user-images.githubusercontent.com/70436168/167297134-b07058c7-6fcf-4def-97f0-a0024dd4ab3b.png)
 
 -Ekledikten sonra veritabanı yine bu elemana özel id tanımlar ve bu eleman üzerinde operasyonları yaparken bu id üzerinden yapıyoruz.
+
+![employeevisualindb](https://user-images.githubusercontent.com/70436168/167297161-8b731bd1-a067-4004-8976-dc2b8e9bb027.png)
+
  # Departman Operasyonları 
    ```
    Departman ekleme 
