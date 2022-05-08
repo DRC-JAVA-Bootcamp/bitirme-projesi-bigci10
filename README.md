@@ -19,6 +19,9 @@
 
 *departman ekledikten sonra veritabanımızda eklediğimiz departman otamatik bir id alır bunu şöyle görebiliriz (burada gördüğümüz id numarasını (1) bu departmana işçi eklerken kullanacağız)
 
+
+![department visual in db](https://user-images.githubusercontent.com/70436168/167297109-8fbb156e-1f2e-4890-aaa7-815be1e30cbb.png)
+
    # 2.Adım Eleman ekleme 
 
 
