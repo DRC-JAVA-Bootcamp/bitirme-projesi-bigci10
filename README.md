@@ -34,9 +34,15 @@
    ```
    Departman ekleme 
    ```
+   
+   ![adddepartment](https://user-images.githubusercontent.com/70436168/167297250-9b28d312-2e3c-4a36-a214-d7e7d76c383f.png)
+
    ```
    Departman Silme 
    ```
+   
+   ![deletee](https://user-images.githubusercontent.com/70436168/167297256-8358c0c0-662f-484d-97c3-b9ab20fab41a.png)
+
    ```
    Departman Güncelleme
    ```
@@ -45,11 +51,15 @@
    ```
    Tüm Departmanları Görüntüleme
    ```
+   
+   ![alldepartments](https://user-images.githubusercontent.com/70436168/167297361-94da228a-c335-41b6-b8f8-7e62b77a4e47.png)
+
    ```
    Id'ye göre departman Görüntüleme 
    ```
    
-   
+   ![viewbyId](https://user-images.githubusercontent.com/70436168/167297416-b4a2639b-9982-4885-9028-db694bf0d292.png)
+
  # Employee Operasyonları 
  
    ```
