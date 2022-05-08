@@ -65,18 +65,33 @@
    ```
    Employee ekleme 
    ```
+   
+   ![addemployee](https://user-images.githubusercontent.com/70436168/167297507-bb04236c-5341-4e3d-a35e-d22c0b206a88.png)
+ 
    ```
    Employee Silme 
    ```
+   
+   ![deleteemployee](https://user-images.githubusercontent.com/70436168/167297575-5ea5753d-e8f3-4390-83f9-f7cb5692f007.png)
+
    ```
    Employee Güncelleme
    ```
+   
+   ![updateemployee](https://user-images.githubusercontent.com/70436168/167297636-c6f12fd6-5042-4b92-aef4-95c34565628b.png)
+
    ```
    Tüm Employee Görüntüleme
    ```
+   
+   ![allemployees](https://user-images.githubusercontent.com/70436168/167297692-4a914bd2-94d1-4f7e-bc9b-07866302211e.png)
+
    ```
    Id'ye göre employee Görüntüleme 
    ```
+   
+   ![viewemployeebyid](https://user-images.githubusercontent.com/70436168/167297748-4ac4fad2-5bcb-46c8-aae3-e194b3a889c1.png)
+
    
    
    
