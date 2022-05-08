@@ -13,6 +13,8 @@
 
 # Nasıl Çalışır 
    # 1.Adım ilk önce aşağıda belirtmiş olduğum kısıma giderek departman eklemelisiniz
+   
+   ![step1](https://user-images.githubusercontent.com/70436168/167297088-ff8984b8-2866-4067-8f2d-d4e6495f202d.png)
 
 
 *departman ekledikten sonra veritabanımızda eklediğimiz departman otamatik bir id alır bunu şöyle görebiliriz (burada gördüğümüz id numarasını (1) bu departmana işçi eklerken kullanacağız)
