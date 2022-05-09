@@ -70,5 +70,7 @@
    ![viewemployeebyid](https://user-images.githubusercontent.com/70436168/167297748-4ac4fad2-5bcb-46c8-aae3-e194b3a889c1.png)
 
    
-   
+# UML DİAGRAM
+
+![employeeManagement](https://user-images.githubusercontent.com/70436168/167401833-74e3c103-4854-4ab8-ba1f-4a035bb1802b.png)
    
