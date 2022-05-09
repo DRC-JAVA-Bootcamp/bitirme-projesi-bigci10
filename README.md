@@ -8,21 +8,21 @@
 
 
 # How it works 
-   # 1. Adding Department
+   # 1. Create Department
    
    ![step1](https://user-images.githubusercontent.com/70436168/167297088-ff8984b8-2866-4067-8f2d-d4e6495f202d.png)
 
 
-*After adding the department, the department we add to the database automatically gets an ID. (We will use this ID when adding workers to this department)
+*After creating the department, the department we add to the database automatically gets an ID. (We will use this ID when adding workers to this department)
 
 
 ![department visual in db](https://user-images.githubusercontent.com/70436168/167297109-8fbb156e-1f2e-4890-aaa7-815be1e30cbb.png)
 
-   # 2.Adding Employee
+   # 2.Create Employee
 
 ![Eleman ekleme](https://user-images.githubusercontent.com/70436168/167297134-b07058c7-6fcf-4def-97f0-a0024dd4ab3b.png)
 
--After adding Employee, the database automatically defines an ID  for this employee(We will do some of our operations on this ID.)
+-After creating Employee, the database automatically defines an ID  for this employee(We will do some of our operations on this ID.)
 
 ![employeevisualindb](https://user-images.githubusercontent.com/70436168/167297161-8b731bd1-a067-4004-8976-dc2b8e9bb027.png)
 
