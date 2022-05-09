@@ -45,7 +45,7 @@
    
    ![viewbyId](https://user-images.githubusercontent.com/70436168/167297416-b4a2639b-9982-4885-9028-db694bf0d292.png)
 
- # Employee Operasyonları 
+ # Employee Operations
  
    ```
    Add
