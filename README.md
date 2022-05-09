@@ -26,7 +26,7 @@
 
 ![employeevisualindb](https://user-images.githubusercontent.com/70436168/167297161-8b731bd1-a067-4004-8976-dc2b8e9bb027.png)
 
- # Departmant Operations
+ # Department Operations
    ```
    Add
    Remove
