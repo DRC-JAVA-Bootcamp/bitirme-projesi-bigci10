@@ -8,7 +8,7 @@
 
 
 # How it works 
-   # 1. First, you must add a department
+   # 1. Adding Department
    
    ![step1](https://user-images.githubusercontent.com/70436168/167297088-ff8984b8-2866-4067-8f2d-d4e6495f202d.png)
 
@@ -18,7 +18,7 @@
 
 ![department visual in db](https://user-images.githubusercontent.com/70436168/167297109-8fbb156e-1f2e-4890-aaa7-815be1e30cbb.png)
 
-   # 2.Add Employee
+   # 2.Adding Employee
 
 ![Eleman ekleme](https://user-images.githubusercontent.com/70436168/167297134-b07058c7-6fcf-4def-97f0-a0024dd4ab3b.png)
 
